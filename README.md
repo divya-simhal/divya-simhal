@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Divya Simhal 👋</h1>
+<h1 align="center">Hi there, I'm Divya Simhal </h1>
 
-<h3 align="center">AI Engineer in the making 🤖 | Building things with LLMs, agents & full-stack apps</h3>
+<h3 align="center">AI Engineer in the making Agent | Building things with LLMs, agents & full-stack apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
@@ -16,19 +16,19 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 MCA graduate from **SGSITS, Indore**
-- 🧠 Recently completed an **AI Engineer Internship at Media2AI**, where I built **OperonAI** — a multi-tenant AI agent orchestration platform (FastAPI + LangGraph backend, Next.js + ReactFlow frontend)
-- 🔭 Currently **actively looking for opportunities** as an **AI Engineer / Software Engineer**
-- 🌱 Learning by building — every project below taught me something new about agents, RAG, or full-stack architecture
-- 💬 Comfortable across the stack: **FastAPI, Next.js, LangGraph, PostgreSQL, Docker**
-- 📫 Reach me at **divya04simhal@gmail.com**
-- ⚡ Fun fact: I'd rather debug a LangGraph loop node at midnight than leave a bug unsolved
+- MCA graduate from **SGSITS, Indore**
+- Recently completed an **AI Engineer Internship at Media2AI**, where I built **OperonAI** — a multi-tenant AI agent orchestration platform (FastAPI + LangGraph backend, Next.js + ReactFlow frontend)
+- Currently **actively looking for opportunities** as an **AI Engineer / Software Engineer**
+- Learning by building — every project below taught me something new about agents, RAG, or full-stack architecture
+- Comfortable across the stack: **FastAPI, Next.js, LangGraph, PostgreSQL, Docker**
+- Reach me at **divya04simhal@gmail.com**
+- Fun fact: I'd rather debug a LangGraph loop node at midnight than leave a bug unsolved
 
 ---
 
-### 🟢 Currently
+### Currently
 
 ```text
 status: Open to work
@@ -39,7 +39,7 @@ response_time: usually under 24h
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ response_time: usually under 24h
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -75,11 +75,11 @@ response_time: usually under 24h
 | 🩺 [**Vitals**](https://github.com/nikkisimhal/vitals) | Diabetes risk predictor with secure auth and a clean dashboard | FastAPI · JWT · Next.js · PostgreSQL · Docker |
 | 🧮 [**ScanMatch**](https://github.com/nikkisimhal/resume-matcher-dsa) | Resume ↔ JD compatibility scorer with keyword gap analysis — built from scratch with a Trie, a hand-rolled min-heap, and OOP, zero ML libraries | Flask · Python (Trie, Heap, OOP) |
 
-> 📌 Pin these repos on your profile (Repositories tab → Customize pins) so they show up right under this bio.
+
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikkisimhal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -92,7 +92,7 @@ response_time: usually under 24h
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm actively interviewing and open to AI Engineer / Software Engineer roles — feel free to reach out if you're hiring or just want to talk shop about agents and RAG pipelines!
 
