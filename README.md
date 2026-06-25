@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer in the making Agent | Building things with LLMs, agents & full-stack apps</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/divyasimhal">
+  <a href="https://linkedin.com/in/divya-simhal">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:divya04simhal@gmail.com">
