@@ -71,7 +71,7 @@ response_time: usually under 24h
 | Project | What it does | Tech |
 |---|---|---|
 | 🗣️ [**Verbase**](https://github.com/nikkisimhal/verbase) | Natural language → SQL tool — ask questions in plain English, get instant query results | FastAPI · Groq LLM · SQLite |
-| 📍 [**Smart Nearby Places Recommender**](https://github.com/nikkisimhal/smart-nearby-places) | Mood-based place recommender with favorites & history, built on live location data | FastAPI · Next.js · Leaflet · Geoapify |
+| 📍 [**Smart Nearby Places Recommender**](https://github.com/nikkisimhal/smart_nearby_places) | Mood-based place recommender with favorites & history, built on live location data | FastAPI · Next.js · Leaflet · Geoapify |
 | 🩺 [**Vitals**](https://github.com/nikkisimhal/vitals) | Diabetes risk predictor with secure auth and a clean dashboard | FastAPI · JWT · Next.js · PostgreSQL · Docker |
 | 🧮 [**ScanMatch**](https://github.com/nikkisimhal/resume-matcher-dsa) | Resume ↔ JD compatibility scorer with keyword gap analysis — built from scratch with a Trie, a hand-rolled min-heap, and OOP, zero ML libraries | Flask · Python (Trie, Heap, OOP) |
 
